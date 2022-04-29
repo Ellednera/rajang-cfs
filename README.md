@@ -113,7 +113,12 @@ Anything related to DB will go here, maybe skip this part? :)
 ???
 
 ## Detailed Test Plan
+Testing based on use cases, easier :)
+### Test Case 1
 
+### Test Case 2
+
+### Test Case 3
 
 
 
